@@ -17,5 +17,3 @@ while True:
             print("Usted puede pasar, con dificultades")
         else:
             print("Color no reconocido")
-
-            # Preguntar si desea continuar
